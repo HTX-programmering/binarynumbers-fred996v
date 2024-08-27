@@ -1,1 +1,10 @@
+det binære talsystem er ligesom decimal bare med 2 som grundtal i stedet for 10, det vil sige at man kun bruger 0 og 1
+en bit er enten 0 eller 1, en byte er en samling af bits der ofte består af 8 bits
+den maksimale værdi for en byte på 8 bits er 255 ved 2^8-1, der trækkes 1 fra da nul også er en værdi
+biten længst til højre kaldes paritets biten da den bestemmer om værdien i byten er lige eller ulige
+the most significant bit er den længst til venstre og den kan bestemme fortegnet på værdien hvis byten er signed
 
+der stå ikke i opgaven at det er summen af de vinduer der er åbne men det antager jeg
+for at signaler kl 3 skal det første og det andet vindue, binært vis 0011
+for at signaler kl 5 skal det første og det trejde vindue, binært vis 0101
+for at signaler kl 10 skal det andet og det fjerde vindue, binært vis 1010
